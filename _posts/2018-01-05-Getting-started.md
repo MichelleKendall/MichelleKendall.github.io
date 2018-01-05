@@ -1,5 +1,5 @@
 ---		
- layout: post		
+ layout: article		
  title: Getting started
  categories: general 
 ---		
