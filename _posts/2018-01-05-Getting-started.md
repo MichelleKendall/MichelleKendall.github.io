@@ -1,7 +1,7 @@
 ---		
  layout: post		
  title: Getting started
-categories: general 
+ categories: general 
 ---		
 
 I'm just getting started and testing my understanding of how posts work. 
