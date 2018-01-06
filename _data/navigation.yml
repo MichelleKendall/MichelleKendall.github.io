@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: Introduction to treespace
+- title: Software
   url: /introduction.html
-  excerpt: "A quick-start guide to using the R package treespace"
+  excerpt: "Guides and links to my R packages"
   image: treespace_logo.png
   
  - title: Blog
