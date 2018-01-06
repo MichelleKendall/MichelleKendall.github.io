@@ -9,3 +9,8 @@
   url: /category/
   excerpt: "Blog archive"
   image: knitted_tree.jpg
+  
+- title: About me
+  url: /about.md
+  excerpt: "More about me"
+  image: my_face.jpg
