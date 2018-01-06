@@ -1,8 +1,7 @@
 ---		
  layout: article
  title: Getting started
- date: 2018-01-05
- image.feature: test.png
+ author: Michelle Kendall
  categories: general 
 ---		
 
