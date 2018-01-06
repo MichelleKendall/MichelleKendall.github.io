@@ -1,7 +1,6 @@
 ---		
  layout: article
  title: Getting started
- author: Michelle Kendall
  categories: general 
 ---		
 
