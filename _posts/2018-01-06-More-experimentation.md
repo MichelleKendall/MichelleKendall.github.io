@@ -3,9 +3,12 @@
  title: More experimentation
  categories: general 
  image:
-  feature: treespace_logo.png
+  teaser: treespace_logo_400_width.png
+  feature: feature_image_demo.png
 ---		
 
 Day 2.
 
-I'm learning how to insert images like this ![Test image]({{ "/images/test.png" | absolute_url }}) and feature images like the treespace logo.
+I'm learning how to insert images like this ![Test image]({{ "/images/test.png" | absolute_url }}) 
+
+Plus learning to change the feature image and teaser image.
