@@ -5,7 +5,7 @@ description: "Michelle's online home for all things biomaths"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: knitted_tree.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://michellekendall.github.io/
 feed:
   path: atom.xml
 
@@ -33,7 +33,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: my_face.png # image for author byline
+  avatar: images/my_face.png # image for author byline
   disqus-shortname:
 
 
