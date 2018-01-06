@@ -1,6 +1,6 @@
 # Site navigation links
 
 - title: Introduction to treespace
-  url: /introduction/
+  url: introduction/
   excerpt: "A quick-start guide to using the R package treespace"
   image: treespace_logo.png
