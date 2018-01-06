@@ -3,8 +3,8 @@
 - title: Software
   url: /introduction.html
   excerpt: "Guides and links to my R packages"
-  image: treespace_logo.png
-  
+  image: treespace_logo.png 
+
 - title: Blog
   url: /category/
   excerpt: "Blog archive"
