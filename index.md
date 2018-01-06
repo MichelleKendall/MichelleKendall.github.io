@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Latest Posts"
 image:
-  feature: feature_image_demo.png
+  feature: knitted_tree_banner.jpg
 ---
 
 <div class="tiles">

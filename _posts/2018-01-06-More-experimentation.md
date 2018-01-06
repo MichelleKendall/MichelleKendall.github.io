@@ -3,8 +3,8 @@
  title: More experimentation
  categories: general 
  image:
-  teaser: treespace_logo_400_width.png
-  feature: feature_image_demo.png
+  teaser: # treespace_logo_400_width.png
+  feature: knitted_tree_banner.jpg
  comments: true
 ---		
 
