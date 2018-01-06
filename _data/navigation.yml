@@ -10,6 +10,11 @@
   excerpt: "Guides and links to my R packages"
   image: treespace_logo.png 
   
+- title: Blog
+  url: /archives/general
+  excerpt: "Blog posts"
+  image: # my_face.jpg
+  
 - title: About me
   url: /about/
   excerpt: "More about me"
