@@ -5,9 +5,9 @@
   excerpt: "Guides and links to my R packages"
   image: treespace_logo.png 
 
-- title: Blog
-  url: /category/
-  excerpt: "Blog archive"
+- title: General blogs
+  url: /archives/general.html
+  excerpt: "General blogs"
   image: knitted_tree.jpg
   
 - title: About me
