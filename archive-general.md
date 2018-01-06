@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /archives/general
+permalink: /general
 title: "General Posts"
 image:
   feature: knitted_tree_banner.jpg

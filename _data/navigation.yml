@@ -11,7 +11,7 @@
   image: treespace_logo.png 
   
 - title: Blog
-  url: /archives/general
+  url: /general
   excerpt: "Blog posts"
   image: # my_face.jpg
   
