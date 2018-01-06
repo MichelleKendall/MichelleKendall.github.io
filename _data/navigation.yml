@@ -4,3 +4,8 @@
   url: /introduction.html
   excerpt: "A quick-start guide to using the R package treespace"
   image: treespace_logo.png
+  
+ - title: Blog
+  url: /category/
+  excerpt: "Blog archive"
+  image: knitted_tree.jpg
