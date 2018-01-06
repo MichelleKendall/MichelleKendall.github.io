@@ -26,14 +26,14 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: Michelle Kendall
   email:
   twitter: Miche11eKenda11
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: my_face.png # image for author byline
   disqus-shortname:
 
 
