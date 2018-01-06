@@ -11,6 +11,6 @@
   image: knitted_tree.jpg
   
 - title: About me
-  url: /about.md
+  url: /about/
   excerpt: "More about me"
   image: my_face.jpg
