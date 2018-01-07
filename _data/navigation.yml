@@ -6,7 +6,7 @@
   image: # my_face.jpg
 
 - title: Software
-  url: /introduction.html
+  url: /software/
   excerpt: "Guides and links to my R packages"
   image: treespace_logo.png 
   
