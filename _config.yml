@@ -33,7 +33,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: my_face_120.jpg # image for author byline
+  avatar: my_face_thumbnail.jpg # image for author byline
   disqus-shortname:
 
 
