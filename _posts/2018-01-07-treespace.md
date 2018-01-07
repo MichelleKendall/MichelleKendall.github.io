@@ -3,7 +3,7 @@
  title: treespace
  categories: software
  image:
-  teaser: treespace_logo_400_width.png
+  teaser: treespace_teaser.png
   feature: knitted_tree_banner.jpg
   comments: true
 ---		

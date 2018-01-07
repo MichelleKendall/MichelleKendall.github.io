@@ -8,7 +8,7 @@
 - title: Software
   url: /software/
   excerpt: "Guides and links to my R packages"
-  image: treespace_logo.png 
+  image: treespace_tree.jpg
   
 - title: Blog
   url: /general
@@ -18,4 +18,4 @@
 - title: About me
   url: /about/
   excerpt: "More about me"
-  image: # my_face.jpg
+  image: my_face.jpg
