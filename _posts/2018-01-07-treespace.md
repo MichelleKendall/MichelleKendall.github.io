@@ -21,6 +21,6 @@ You can also:
 * find the stable R package <a href="https://cran.r-project.org/web/packages/treespace/index.html" target="_blank">on CRAN</a>, along with previous releases
 * find the development version with all the latest updates <a href="https://github.com/thibautjombart/treespace" target="_blank">on GitHub</a>
 * read more about the package in these vignettes:
-..* <a href="https://cran.r-project.org/web/packages/treespace/vignettes/introduction.html" target="_blank">Introduction to treespace</a>
-..* <a href="https://cran.r-project.org/web/packages/treespace/vignettes/DengueVignette.html" target="_blank">worked example: Dengue trees</a>
-..* <a href="https://cran.r-project.org/web/packages/treespace/vignettes/TransmissionTreesVignette.html" target="_blank">worked example: Transmission trees</a>
+  * <a href="https://cran.r-project.org/web/packages/treespace/vignettes/introduction.html" target="_blank">Introduction to treespace</a>
+  * <a href="https://cran.r-project.org/web/packages/treespace/vignettes/DengueVignette.html" target="_blank">worked example: Dengue trees</a>
+  * <a href="https://cran.r-project.org/web/packages/treespace/vignettes/TransmissionTreesVignette.html" target="_blank">worked example: Transmission trees</a>
