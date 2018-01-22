@@ -31,7 +31,7 @@ Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: fi
 #### Key predistribution
 
 **Kendall, M.** and Martin, K. M. (2016) [Graph-theoretic design and analysis of key predistribution schemes](http://link.springer.com/article/10.1007/s10623-015-0124-0), *Designs, Codes and Cryptography*, 81(1): 11-34
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1007/s10623-015-0124-0" data-hide-no-mentions="false" class="altmetric-embed"></div> 
+<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1007/s10623-015-0124-0" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 **Kendall, M.**, Martin, K. M., Ng, S.-L., Paterson, M. B., & Stinson, D. R. (2014) [Broadcast-enhanced key predistribution schemes](http://dl.acm.org/citation.cfm?id=2629661), *ACM Transactions on Sensor Networks*, 11(1): 1–33
 <div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1145/2629661" data-hide-no-mentions="true" class="altmetric-embed"></div> 
