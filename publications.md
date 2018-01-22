@@ -12,8 +12,7 @@ image:
 
 #### Phylogenetics
 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>
- **Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018). Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees, *Statistical Science*, to appear. [arXiv preprint](http://arxiv.org/abs/1609.09051)
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div> **Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018). Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees, *Statistical Science*, to appear. [arXiv preprint](http://arxiv.org/abs/1609.09051)
 
 Grandjean, L. et al (2017) [Convergent evolution and topologically disruptive polymorphisms among multidrug-resistant tuberculosis in Peru](https://doi.org/10.1371/journal.pone.0189838), *PLoS ONE*, 12(12):e0189838
 
