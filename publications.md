@@ -10,17 +10,17 @@ image:
 
 #### Phylogenetics
 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div> **Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018). Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees, *Statistical Science*, to appear. [arXiv preprint](http://arxiv.org/abs/1609.09051)
+<div data-badge-popover="bottom" data-badge-type="2" data-arxiv-id='1609.09051v1' data-hide-no-mentions="true" class="altmetric-embed"></div> **Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018). Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees, *Statistical Science*, to appear. [arXiv preprint](http://arxiv.org/abs/1609.09051)
 
-Grandjean, L. et al (2017) [Convergent evolution and topologically disruptive polymorphisms among multidrug-resistant tuberculosis in Peru](https://doi.org/10.1371/journal.pone.0189838), *PLoS ONE*, 12(12):e0189838
+<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1371/journal.pone.0189838" data-hide-no-mentions="true" class="altmetric-embed"></div> Grandjean, L. et al (2017) [Convergent evolution and topologically disruptive polymorphisms among multidrug-resistant tuberculosis in Peru](https://doi.org/10.1371/journal.pone.0189838), *PLoS ONE*, 12(12):e0189838
 
-Ratmann, O. et al (2017) [HIV-1 full-genome phylogenetics of generalized epidemics in sub-Saharan Africa: impact of missing nucleotide characters in next-generation sequences](https://doi.org/10.1089/aid.2017.0061), *AIDS Research and Human Retroviruses*, 33(11):1083-1098
+<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1089/aid.2017.0061" data-hide-no-mentions="true" class="altmetric-embed"></div> Ratmann, O. et al (2017) [HIV-1 full-genome phylogenetics of generalized epidemics in sub-Saharan Africa: impact of missing nucleotide characters in next-generation sequences](https://doi.org/10.1089/aid.2017.0061), *AIDS Research and Human Retroviruses*, 33(11):1083-1098
 
-Jombart, T., **Kendall, M.**, Almagro-Garcia, J. and Colijn, C. (2017) [treespace: statistical exploration of landscapes of phylogenetic trees](http://doi.wiley.com/10.1111/1755-0998.12676), *Molecular Ecology Resources*, 17(6):1385-1392
+<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1111/1755-0998.12676" data-hide-no-mentions="true" class="altmetric-embed"></div> Jombart, T., **Kendall, M.**, Almagro-Garcia, J. and Colijn, C. (2017) [treespace: statistical exploration of landscapes of phylogenetic trees](http://doi.wiley.com/10.1111/1755-0998.12676), *Molecular Ecology Resources*, 17(6):1385-1392
 
-Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: findings from the PANGEA-HIV methods comparison](https://doi.org/10.1093/molbev/msw217), *Molecular Biology and Evolution*, 34(1):185-203.
+<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw217" data-hide-no-mentions="true" class="altmetric-embed"></div> Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: findings from the PANGEA-HIV methods comparison](https://doi.org/10.1093/molbev/msw217), *Molecular Biology and Evolution*, 34(1):185-203.
 
-**Kendall, M.** and Colijn, C. (2016) [Mapping phylogenetic trees to reveal distinct patterns of evolution](https://doi.org/10.1093/molbev/msw124), *Molecular Biology and Evolution*, 33(10):2735-2743
+<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw124" data-hide-no-mentions="true" class="altmetric-embed"></div> **Kendall, M.** and Colijn, C. (2016) [Mapping phylogenetic trees to reveal distinct patterns of evolution](https://doi.org/10.1093/molbev/msw124), *Molecular Biology and Evolution*, 33(10):2735-2743
 
 #### Key predistribution
 
