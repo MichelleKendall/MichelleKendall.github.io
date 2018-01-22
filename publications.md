@@ -31,14 +31,12 @@ Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: fi
 #### Key predistribution
 
 **Kendall, M.** and Martin, K. M. (2016) [Graph-theoretic design and analysis of key predistribution schemes](http://link.springer.com/article/10.1007/s10623-015-0124-0), *Designs, Codes and Cryptography*, 81(1): 11-34
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1007/s10623-015-0124-0" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 **Kendall, M.**, Martin, K. M., Ng, S.-L., Paterson, M. B., & Stinson, D. R. (2014) [Broadcast-enhanced key predistribution schemes](http://dl.acm.org/citation.cfm?id=2629661), *ACM Transactions on Sensor Networks*, 11(1): 1–33
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1145/2629661" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+
 
 **Kendall, M.** (2013) [Combinatorial Aspects of Key Predistribution for Resource-Constrained Networks](https://pure.royalholloway.ac.uk/portal/en/publications/combinatorial-aspects-of-key-predistribution-for-resourceconstrained-networks(fca201c4-8a84-4b8f-bd1a-be8851e78d1d).html), *Doctoral Thesis*, Royal Holloway, University of London.
 
 Kendall, E., **Kendall, M.** & Kendall, W.S. (2012) [A generalised formula for calculating the resilience of random key predistribution schemes](http://eprint.iacr.org/2012/426), *eprint archive*
 
 **Kendall, M.** and Martin, K. M. (2012) [On the role of expander graphs in key predistribution schemes for wireless sensor networks](http://link.springer.com/chapter/10.1007%2F978-3-642-34159-5_5), In *Research in Cryptology*, volume 7242 of *Lecture Notes in Computer Science*, 62-82
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1007/978-3-642-34159-5_5" data-hide-no-mentions="true" class="altmetric-embed"></div> 
