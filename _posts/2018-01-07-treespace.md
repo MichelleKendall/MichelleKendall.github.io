@@ -27,3 +27,4 @@ You can also:
   * <a href="https://cran.r-project.org/web/packages/treespace/vignettes/introduction.html" target="_blank">Introduction to treespace</a>
   * <a href="https://cran.r-project.org/web/packages/treespace/vignettes/DengueVignette.html" target="_blank">worked example: Dengue trees</a>
   * <a href="https://cran.r-project.org/web/packages/treespace/vignettes/TransmissionTreesVignette.html" target="_blank">worked example: Transmission trees</a>
+  * <a href="https://cran.r-project.org/web/packages/treespace/vignettes/tipCategories.html" target="_blank">worked example: comparing by tip categories</a>
