@@ -2,7 +2,7 @@
  layout: article
  title: Getting started
  categories: general 
-  image:
+ image:
   feature: knitted_tree_banner.jpg
 ---		
 
