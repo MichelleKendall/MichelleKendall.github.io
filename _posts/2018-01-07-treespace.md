@@ -8,7 +8,10 @@
   comments: true
 ---		
 
-*treespace* is a package for statistical exploration of landscapes of phylogenetic trees. 
+[![CRAN Status Badge](http://www.r-pkg.org/badges/version/treespace)](https://cran.r-project.org/package=treespace)
+[![CRAN Downloads](https://cranlogs.r-pkg.org/badges/treespace)](https://cran.r-project.org/package=treespace)
+
+*treespace* is an R package for statistical exploration of landscapes of phylogenetic trees. 
 (Note, it was previously released with the name "treescape".) 
 It includes a <a href="http://shiny.imperial-stats-experimental.co.uk/users/mlkendal/treespace" target="_blank">shiny app</a> which provides a simple user interface for the functions. 
 To install and load it, simply run (in R > 3.2.2):
