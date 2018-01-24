@@ -1,10 +1,14 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Michelle Kendall"
 image:
   feature: knitted_tree_banner.jpg
 ---
+
+Welcome! This site is under development so please bear with me while I get it fully up and running.
+
+### Recent posts:
 
 <div class="tiles">
 {% for post in site.posts %}
