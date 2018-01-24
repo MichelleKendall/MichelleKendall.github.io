@@ -4,7 +4,7 @@
  categories: software
  image:
   teaser: treespace_teaser.png
-  feature: knitted_tree_banner.jpg
+  feature: treespace_banner.jpg
   comments: true
 ---		
 
