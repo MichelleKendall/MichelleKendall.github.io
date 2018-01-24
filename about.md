@@ -18,5 +18,5 @@ You can find me elsewhere on the web at:
 * <a href="https://www.linkedin.com/in/michelle-kendall-55819194" target="_blank">LinkedIn</a>
 * <a href="https://www.mendeley.com/profiles/michelle-kendall1/" target="_blank">Mendeley</a>
 * <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=181879" target="_blank">Maths Genealogy</a>
-* <a href="http://orcid.org/0000-0001-7344-7071" target="_blank">ORCID</a>
+* <a href="https://orcid.org/0000-0001-7344-7071" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7344-7071</a>
 * <a href="https://twitter.com/Miche11eKenda11" target="_blank">Twitter</a>
