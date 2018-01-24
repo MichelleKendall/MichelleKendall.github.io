@@ -3,7 +3,7 @@
 - title: Publications
   url: /publications/
   excerpt: "Links to my publications"
-  image: # my_face.jpg
+  image: publications_thumbnail.png
 
 - title: Software
   url: /software/
@@ -13,7 +13,7 @@
 - title: Blog
   url: /general
   excerpt: "Blog posts"
-  image: # my_face.jpg
+  image: blog_thumbnail.png
   
 - title: About me
   url: /about/
