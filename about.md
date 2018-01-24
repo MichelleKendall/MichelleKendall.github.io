@@ -25,6 +25,6 @@ You can find me elsewhere on the web at:
 
 <i class="fa fa-twitter fa-2x" aria-hidden="true"></i> <a href="https://twitter.com/Miche11eKenda11" target="_blank">Twitter</a>
 
-<i class="fa fa-circle fa-2x" aria-hidden="true"></i> <a href="http://www.imperial.ac.uk/people/m.kendall" target="_blank">Imperial College</a>
+<i class="fa fa-circle-o fa-2x" aria-hidden="true"></i> <a href="http://www.imperial.ac.uk/people/m.kendall" target="_blank">Imperial College</a>
 
-<i class="fa fa-circle fa-2x" aria-hidden="true"></i> <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=181879" target="_blank">Maths Genealogy</a>
+<i class="fa fa-circle-o fa-2x" aria-hidden="true"></i> <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=181879" target="_blank">Maths Genealogy</a>
