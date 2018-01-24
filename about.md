@@ -23,7 +23,7 @@ You can find me elsewhere on the web at:
 
 <i class="fa fa-github fa-2x" aria-hidden="true"></i> <a href="https://github.com/MichelleKendall" target="_blank"> GitHub</a>
 
-<a class="btn btn-default" href="https://twitter.com/Miche11eKenda11">
+<a class="btn btn-default btn-primary btn-lg" href="https://twitter.com/Miche11eKenda11">
   <i class="fa fa-twitter fa-2x" aria-hidden="true"></i> Twitter</a>
 
 <i class="fa fa-circle-o fa-2x" aria-hidden="true"></i> <a href="http://www.imperial.ac.uk/people/m.kendall" target="_blank"> Imperial College</a>
