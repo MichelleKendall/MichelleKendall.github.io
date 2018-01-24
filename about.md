@@ -13,7 +13,7 @@ You can also run treespace straight from your web browser <a href="http://shiny.
 
 You can find me elsewhere on the web at:
 * <a href="http://www.imperial.ac.uk/people/m.kendall" target="_blank">Imperial College</a>
-* <a href="https://scholar.google.co.uk/citations?user=CAzbfakAAAAJ&hl=en" target="_blank">Google Scholar</a>
+* <i class="ai ai-google-scholar-square ai-3x"></i> <a href="https://scholar.google.co.uk/citations?user=CAzbfakAAAAJ&hl=en" target="_blank">Google Scholar</a>
 * <a href="https://www.researchgate.net/profile/Michelle_Kendall" target="_blank">Research Gate</a>
 * <a href="https://www.mendeley.com/profiles/michelle-kendall1/" target="_blank">Mendeley</a>
 * <a href="https://twitter.com/Miche11eKenda11?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Miche11eKenda11</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <a href="https://twitter.com/Miche11eKenda11" target="_blank">Twitter</a>
