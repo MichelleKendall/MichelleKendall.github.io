@@ -21,8 +21,10 @@ You can find me elsewhere on the web at:
 
 <i class="ai ai-orcid ai-2x"></i> <a href="https://orcid.org/0000-0001-7344-7071" target="_blank">ORCID</a> 
 
-<a href="http://www.imperial.ac.uk/people/m.kendall" target="_blank">Imperial College</a>
+<i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/MichelleKendall" target="_blank">GitHub</a>
 
-<a href="https://twitter.com/Miche11eKenda11" target="_blank">Twitter</a>
+<i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/Miche11eKenda11" target="_blank">Twitter</a>
+
+<a href="http://www.imperial.ac.uk/people/m.kendall" target="_blank">Imperial College</a>
 
 <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=181879" target="_blank">Maths Genealogy</a>
