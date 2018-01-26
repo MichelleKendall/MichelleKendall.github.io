@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Research
+  url: /research/
+  excerpt: "More about my research"
+  image: my_face_thumbnail.jpg
+
 - title: Publications
   url: /publications/
   excerpt: "Links to my publications"
@@ -14,8 +19,3 @@
   url: /general
   excerpt: "Blog posts"
   image: blog_thumbnail.png
-  
-- title: About me
-  url: /about/
-  excerpt: "More about me"
-  image: my_face_thumbnail.jpg
