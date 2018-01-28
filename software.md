@@ -12,6 +12,8 @@ The links below give some more detail about each of these projects and how to ge
 
 I also contribute to various other R packages - see <a href="https://github.com/MichelleKendall" target="_blank">my GitHub page</a> for the latest projects.
 
+[![Research software impact](http://depsy.org/api/person/445495/badge.svg)](http://depsy.org/person/445495)
+
 <div class="tiles">
 {% for post in site.categories.software %}
   {% include post-grid-no-date.html %}
