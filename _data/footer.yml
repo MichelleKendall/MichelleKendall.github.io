@@ -2,7 +2,19 @@
 
 - title: Home
   url: /
+ 
+- title: Research
+  url: /research/
 
+- title: Publications
+  url: /publications/
+
+- title: Software
+  url: /software/
+  
+- title: Blog
+  url: /blog
+  
 - title: <i class="ai ai-google-scholar"></i>
   url: https://scholar.google.co.uk/citations?user=CAzbfakAAAAJ&hl=en
 
@@ -20,15 +32,3 @@
 
 - title: <i class="fa fa-twitter" aria-hidden="true"></i>
   url: https://twitter.com/Miche11eKenda11
- 
-- title: Research
-  url: /research/
-
-- title: Publications
-  url: /publications/
-
-- title: Software
-  url: /software/
-  
-- title: Blog
-  url: /general
