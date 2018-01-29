@@ -16,6 +16,6 @@
   image: treespace_tree.jpg
   
 - title: Blog
-  url: /general
+  url: /blog/
   excerpt: "Blog posts"
   image: blog_thumbnail.png

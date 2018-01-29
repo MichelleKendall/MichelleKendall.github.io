@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /general
-title: "General Posts"
+permalink: /blog
+title: "Blog Posts"
 image:
   feature: knitted_tree_banner.jpg
 ---
