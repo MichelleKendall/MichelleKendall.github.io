@@ -6,7 +6,8 @@ image:
   feature: knitted_tree_banner.jpg
 ---
 
-Welcome! This site is under development so please bear with me while I get it fully up and running.
+Welcome! This site is under development so please bear with me while I get it fully up and running. <a class="twitter-timeline tw-align-right" data-width="400" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/Miche11eKenda11?ref_src=twsrc%5Etfw">Tweets by Miche11eKenda11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>          
+
 
 I am a PostDoc in the <a href="http://www.imperial.ac.uk/biomathematics-group" target="_blank">biomathematics group</a> at <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>. 
 I use mathematical ideas from combinatorics, topology and statistics to explore the complicated world of evolutionary trees. 
@@ -31,4 +32,3 @@ On this site you can find more information about my research, publications and s
 
 <i class="fa fa-circle-o fa-2x" aria-hidden="true"></i> <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=181879" target="_blank">  Maths Genealogy</a>
 
-<a class="twitter-timeline tw-align-right" data-width="400" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/Miche11eKenda11?ref_src=twsrc%5Etfw">Tweets by Miche11eKenda11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>          
