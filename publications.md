@@ -6,7 +6,7 @@ image:
   feature: knitted_tree_banner.jpg
 ---
 
-{% include toc.html %}
+<img src="google-scholar-citations-chart.png" class="img-right" alt="">
 
 #### Phylogenetics
 
