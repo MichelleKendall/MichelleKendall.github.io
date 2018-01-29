@@ -6,7 +6,7 @@ image:
   feature: knitted_tree_banner.jpg
 ---
 
-<iframe src="https://mkendall.shinyapps.io/Citations/" align="right" style="border: none; width: 370px; height: 470px"></iframe>
+<iframe src="https://mkendall.shinyapps.io/Citations/" align="right" style="border: none; width: 400px; height: 500px"></iframe>
 
 #### Phylogenetics
 
