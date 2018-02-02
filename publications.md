@@ -13,8 +13,9 @@ image:
 **Kendall, M.**, Eldholm, V. and Colijn, C. (2018) [Comparing phylogenetic trees according to tip label categories](https://doi.org/10.1101/251710), *bioRxiv preprint*
 <div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1101/251710" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
-**Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018) Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees, *Statistical Science*, to appear. [arXiv preprint](http://arxiv.org/abs/1609.09051)
+**Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018) [Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees](http://dx.doi.org/10.1214/17-STS637), *Statistical Science*, 33(1):70-85
 <div data-badge-popover="bottom" data-badge-type="2" data-arxiv-id='1609.09051' data-hide-no-mentions="true" class="altmetric-embed"></div> 
+<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1214/17-STS637" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 Grandjean, L. et al (2017) [Convergent evolution and topologically disruptive polymorphisms among multidrug-resistant tuberculosis in Peru](https://doi.org/10.1371/journal.pone.0189838), *PLoS ONE*, 12(12):e0189838
 <div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1371/journal.pone.0189838" data-hide-no-mentions="true" class="altmetric-embed"></div> 
@@ -25,7 +26,7 @@ Ratmann, O. et al (2017) [HIV-1 full-genome phylogenetics of generalized epidemi
 Jombart, T., **Kendall, M.**, Almagro-Garcia, J. and Colijn, C. (2017) [treespace: statistical exploration of landscapes of phylogenetic trees](http://doi.wiley.com/10.1111/1755-0998.12676), *Molecular Ecology Resources*, 17(6):1385-1392
 <div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1111/1755-0998.12676" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
-Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: findings from the PANGEA-HIV methods comparison](https://doi.org/10.1093/molbev/msw217), *Molecular Biology and Evolution*, 34(1):185-203.
+Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: findings from the PANGEA-HIV methods comparison](https://doi.org/10.1093/molbev/msw217), *Molecular Biology and Evolution*, 34(1):185-203
 <div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw217" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 **Kendall, M.** and Colijn, C. (2016) [Mapping phylogenetic trees to reveal distinct patterns of evolution](https://doi.org/10.1093/molbev/msw124), *Molecular Biology and Evolution*, 33(10):2735-2743
