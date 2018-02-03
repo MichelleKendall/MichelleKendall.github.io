@@ -10,7 +10,7 @@ image:
 
 #### Phylogenetics
 
-**Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018) [Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees](http://dx.doi.org/10.1214/17-STS637), *Statistical Science*, 33(1):70-85 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/SS2018.pdf" target="_blank">  pdf</a>
+**Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018) [Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees](http://dx.doi.org/10.1214/17-STS637), *Statistical Science*, 33(1):70-85 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/SS2018.pdf" target="_blank">  [pdf]</a>
 <div data-badge-popover="bottom" data-badge-type="2" data-arxiv-id='1609.09051' data-hide-no-mentions="true" class="altmetric-embed"></div>
 <div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1214/17-STS637" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
