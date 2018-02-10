@@ -36,4 +36,5 @@ You can find me elsewhere on the web at:
 
 <i class="fa fa-circle-o fa-2x" aria-hidden="true"></i> <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=181879" target="_blank">  Maths Genealogy</a>
 
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/Miche11eKenda11?ref_src=twsrc%5Etfw">Tweets by Miche11eKenda11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>          
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/mishkendall?ref_src=twsrc%5Etfw">Tweets by mishkenda11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>          
+         
