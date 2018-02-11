@@ -20,7 +20,7 @@ On this site you can find more information about my research, publications and s
 There is also a blog where I attempt to describe my work in accessible ways. 
 You can find me elsewhere on the web at:
 
-<a href="https://github.com/MichelleKendall" target="_blank" class="btn btn-default"><i class="fa fa-github fa-2x"></i> GitHub</a>
+<a href="https://github.com/MichelleKendall" target="_blank" class="btn"><i class="fa fa-github fa-2x"></i> GitHub</a>
 <a href="https://twitter.com/mishkendall" target="_blank" class="btn btn-default"><i class="fa fa-twitter fa-2x"></i> Twitter</a>
 <a href="https://scholar.google.co.uk/citations?user=CAzbfakAAAAJ&hl=en" target="_blank" class="btn btn-default"><i class="ai ai-google-scholar ai-2x"></i> Google Scholar</a>
 <a href="https://www.researchgate.net/profile/Michelle_Kendall" target="_blank" class="btn btn-default"><i class="ai ai-researchgate ai-2x"></i> Research Gate</a>
