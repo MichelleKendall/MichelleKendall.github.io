@@ -20,6 +20,7 @@ On this site you can find more information about my research, publications and s
 There is also a blog where I attempt to describe my work in accessible ways. 
 You can find me elsewhere on the web at:
 
+<a href="https://scholar.google.co.uk/citations?user=CAzbfakAAAAJ&hl=en" target="_blank" class="btn btn-default">Google Scholar <i class="ai ai-google-scholar ai-2x"></i></a>
 <i class="ai ai-google-scholar ai-2x"></i> <a href="https://scholar.google.co.uk/citations?user=CAzbfakAAAAJ&hl=en" target="_blank">  Google Scholar</a>
 
 <i class="ai ai-researchgate ai-2x"></i> <a href="https://www.researchgate.net/profile/Michelle_Kendall" target="_blank">  Research Gate</a>
