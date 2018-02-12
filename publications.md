@@ -10,27 +10,34 @@ image:
 
 #### Phylogenetics
 
-**Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018) [Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees](http://dx.doi.org/10.1214/17-STS637), *Statistical Science*, 33(1):70-85 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/SS2018.pdf" target="_blank">  [pdf]</a>
+**Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018) [Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees](http://dx.doi.org/10.1214/17-STS637), *Statistical Science*, 33(1):70-85
 <span data-badge-popover="bottom" data-badge-type="2" data-arxiv-id='1609.09051' data-hide-no-mentions="true" class="altmetric-embed"></span>
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1214/17-STS637" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/SS2018.pdf" target="_blank">  [pdf]</a>
 
 **Kendall, M.**, Eldholm, V. and Colijn, C. (2018) [Comparing phylogenetic trees according to tip label categories](https://doi.org/10.1101/251710), *bioRxiv preprint*
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1101/251710" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/bioRxiv2018_tipcategories.pdf" target="_blank">  [pdf]</a>
 
 Grandjean, L. et al (2017) [Convergent evolution and topologically disruptive polymorphisms among multidrug-resistant tuberculosis in Peru](https://doi.org/10.1371/journal.pone.0189838), *PLoS ONE*, 12(12):e0189838
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1371/journal.pone.0189838" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/plone2017.pdf" target="_blank">  [pdf]</a>
 
 Ratmann, O. et al (2017) [HIV-1 full-genome phylogenetics of generalized epidemics in sub-Saharan Africa: impact of missing nucleotide characters in next-generation sequences](https://doi.org/10.1089/aid.2017.0061), *AIDS Research and Human Retroviruses*, 33(11):1083-1098
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1089/aid.2017.0061" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/aid2017.pdf" target="_blank">  [pdf]</a>
 
 Jombart, T., **Kendall, M.**, Almagro-Garcia, J. and Colijn, C. (2017) [treespace: statistical exploration of landscapes of phylogenetic trees](http://doi.wiley.com/10.1111/1755-0998.12676), *Molecular Ecology Resources*, 17(6):1385-1392
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1111/1755-0998.12676" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/MER2017.pdf" target="_blank">  [pdf]</a>
 
 Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: findings from the PANGEA-HIV methods comparison](https://doi.org/10.1093/molbev/msw217), *Molecular Biology and Evolution*, 34(1):185-203
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw217" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/MBE2017.pdf" target="_blank">  [pdf]</a>
 
 **Kendall, M.** and Colijn, C. (2016) [Mapping phylogenetic trees to reveal distinct patterns of evolution](https://doi.org/10.1093/molbev/msw124), *Molecular Biology and Evolution*, 33(10):2735-2743
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw124" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/MBE2016.pdf" target="_blank">  [pdf]</a>
 
 #### Key predistribution
 
@@ -40,7 +47,9 @@ Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: fi
 
 
 **Kendall, M.** (2013) [Combinatorial Aspects of Key Predistribution for Resource-Constrained Networks](https://pure.royalholloway.ac.uk/portal/en/publications/combinatorial-aspects-of-key-predistribution-for-resourceconstrained-networks(fca201c4-8a84-4b8f-bd1a-be8851e78d1d).html), *Doctoral Thesis*, Royal Holloway, University of London.
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/Thesis.pdf" target="_blank">  [pdf]</a>
 
 Kendall, E., **Kendall, M.** & Kendall, W.S. (2012) [A generalised formula for calculating the resilience of random key predistribution schemes](http://eprint.iacr.org/2012/426), *eprint archive*
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/MBE2016.pdf" target="_blank">  [pdf]</a>
 
 **Kendall, M.** and Martin, K. M. (2012) [On the role of expander graphs in key predistribution schemes for wireless sensor networks](http://link.springer.com/chapter/10.1007%2F978-3-642-34159-5_5), In *Research in Cryptology*, volume 7242 of *Lecture Notes in Computer Science*, 62-82
