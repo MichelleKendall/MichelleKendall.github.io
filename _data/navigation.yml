@@ -3,19 +3,19 @@
 - title: Research
   url: /research/
   excerpt: "More about my research"
-  image: my_face_thumbnail.jpg
+  image: knitted_tree.jpg
 
 - title: Publications
   url: /publications/
   excerpt: "Links to my publications"
-  image: publications_thumbnail.png
+  image: knitted_tree.jpg
 
 - title: Software
   url: /software/
   excerpt: "Guides and links to my R packages"
-  image: treespace_tree.jpg
+  image: knitted_tree.jpg
   
 - title: Blog
   url: /blog
   excerpt: "Blog posts"
-  image: blog_thumbnail.png
+  image: knitted_tree.jpg
