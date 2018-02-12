@@ -15,22 +15,22 @@ image:
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1214/17-STS637" data-hide-no-mentions="true" class="altmetric-embed"></span> 
 
 **Kendall, M.**, Eldholm, V. and Colijn, C. (2018) [Comparing phylogenetic trees according to tip label categories](https://doi.org/10.1101/251710), *bioRxiv preprint*
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1101/251710" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+<span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1101/251710" data-hide-no-mentions="true" class="altmetric-embed"></span> 
 
 Grandjean, L. et al (2017) [Convergent evolution and topologically disruptive polymorphisms among multidrug-resistant tuberculosis in Peru](https://doi.org/10.1371/journal.pone.0189838), *PLoS ONE*, 12(12):e0189838
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1371/journal.pone.0189838" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+<span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1371/journal.pone.0189838" data-hide-no-mentions="true" class="altmetric-embed"></span> 
 
 Ratmann, O. et al (2017) [HIV-1 full-genome phylogenetics of generalized epidemics in sub-Saharan Africa: impact of missing nucleotide characters in next-generation sequences](https://doi.org/10.1089/aid.2017.0061), *AIDS Research and Human Retroviruses*, 33(11):1083-1098
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1089/aid.2017.0061" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+<span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1089/aid.2017.0061" data-hide-no-mentions="true" class="altmetric-embed"></span> 
 
 Jombart, T., **Kendall, M.**, Almagro-Garcia, J. and Colijn, C. (2017) [treespace: statistical exploration of landscapes of phylogenetic trees](http://doi.wiley.com/10.1111/1755-0998.12676), *Molecular Ecology Resources*, 17(6):1385-1392
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1111/1755-0998.12676" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+<span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1111/1755-0998.12676" data-hide-no-mentions="true" class="altmetric-embed"></span> 
 
 Ratmann, O. et al (2017) [Phylogenetic tools for generalized HIV-1 epidemics: findings from the PANGEA-HIV methods comparison](https://doi.org/10.1093/molbev/msw217), *Molecular Biology and Evolution*, 34(1):185-203
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw217" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+<span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw217" data-hide-no-mentions="true" class="altmetric-embed"></span> 
 
 **Kendall, M.** and Colijn, C. (2016) [Mapping phylogenetic trees to reveal distinct patterns of evolution](https://doi.org/10.1093/molbev/msw124), *Molecular Biology and Evolution*, 33(10):2735-2743
-<div data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw124" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+<span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw124" data-hide-no-mentions="true" class="altmetric-embed"></span> 
 
 #### Key predistribution
 
