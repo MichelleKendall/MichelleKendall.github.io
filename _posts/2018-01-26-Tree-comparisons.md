@@ -2,6 +2,7 @@
  layout: article
  title: Tree comparisons
  categories: general 
+ excerpt: Why do we need to be able to compare trees in biologically meaningful ways?
  image:
   teaser: plotTreeDiff_teaser.png
   feature: knitted_tree_banner.jpg

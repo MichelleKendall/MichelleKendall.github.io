@@ -2,6 +2,7 @@
  layout: article
  title: treespace
  categories: software
+ excerpt: R package for statistical exploration of landscapes of phylogenetic trees.
  image:
   teaser: treespace_teaser.png
   feature: treespace_banner.jpg
