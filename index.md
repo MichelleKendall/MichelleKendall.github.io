@@ -20,13 +20,12 @@ On this site you can find more information about my research, publications and s
 There is also a blog where I attempt to describe my work in accessible ways. 
 You can find me elsewhere on the web at:
 
+<br>
+
 <a href="https://github.com/MichelleKendall" target="_blank" class="btn"><i class="fa fa-github fa-2x"></i> GitHub</a>
 <a href="https://twitter.com/mishkendall" target="_blank" class="btn btn-default"><i class="fa fa-twitter fa-2x"></i> Twitter</a>
 <a href="https://scholar.google.co.uk/citations?user=CAzbfakAAAAJ&hl=en" target="_blank" class="btn btn-default"><i class="ai ai-google-scholar ai-2x"></i> Google Scholar</a>
 <a href="https://www.researchgate.net/profile/Michelle_Kendall" target="_blank" class="btn btn-default"><i class="ai ai-researchgate ai-2x"></i> Research Gate</a>
 <a href="https://www.mendeley.com/profiles/michelle-kendall1/" target="_blank" class="btn btn-default"><i class="ai ai-mendeley ai-2x"></i> Mendeley</a>
 <a href="https://orcid.org/0000-0001-7344-7071" target="_blank" class="btn btn-default"><i class="ai ai-orcid ai-2x"></i> ORCID</a>
-<a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=181879" target="_blank" class="btn btn-default"><i class="fa fa-circle-o fa-2x"></i> Maths Genealogy</a>
-
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/mishkendall?ref_src=twsrc%5Etfw">Tweets by mishkendall</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>          
-         
+<a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=181879" target="_blank" class="btn btn-default"><i class="fa fa-circle-o fa-2x"></i> Maths Genealogy</a>    
