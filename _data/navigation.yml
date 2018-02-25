@@ -1,10 +1,5 @@
 # Site navigation links
 
-- title: Research
-  url: /research/
-  excerpt: "More about my research"
-  image: research_thumbnail.png
-
 - title: Publications
   url: /publications/
   excerpt: "Links to my publications"
@@ -12,10 +7,10 @@
 
 - title: Software
   url: /software/
-  excerpt: "Guides and links to my R packages"
+  excerpt: "Overviews of my R packages"
   image: software_thumbnail.jpg
   
 - title: Blog
   url: /blog
-  excerpt: "Blog posts"
+  excerpt: "Assorted ideas and explanations of my research"
   image: knitted_tree.jpg
