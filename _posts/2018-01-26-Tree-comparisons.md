@@ -4,7 +4,7 @@
  categories: general 
  excerpt: Why do we need to be able to compare trees in biologically meaningful ways?
  image:
-  teaser: phylocladus_teaser.png
+  teaser: phylocladus_teaser.jpg
   feature: jacaranda_banner.jpg
 ---		
 
