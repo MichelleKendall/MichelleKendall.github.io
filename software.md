@@ -2,11 +2,9 @@
 layout: archive
 title: Software
 permalink: /software/
-image:
-  feature: knitted_tree_banner.jpg
 ---
 
-I maintain the R packages <a href="https://cran.r-project.org/web/packages/treespace/index.html" target="_blank">*treespace*</a> 
+I maintain the R packages <a href="https://cran.r-project.org/web/packages/treespace/index.html" target="_blank">*treespace*</a>
 and <a href="https://cran.r-project.org/web/packages/phyloTop/index.html" target="_blank">*phyloTop*</a>.
 The links below give some more detail about each of these projects and how to get started using them.
 

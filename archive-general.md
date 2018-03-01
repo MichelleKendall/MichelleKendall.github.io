@@ -2,8 +2,6 @@
 layout: archive
 permalink: /blog
 title: "Blog Posts"
-image:
-  feature: knitted_tree_banner.jpg
 ---
 
 <div class="tiles">
