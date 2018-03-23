@@ -8,6 +8,10 @@ permalink: /publications/
 
 #### Phylogenetics
 
+Lees, J. A., **Kendall, M.**, Parkhill, J., Colijn, C., Bentley, S. D. and Harris, S. R. (2018) [Evaluation of phylogenetic reconstruction methods using bacterial whole genomes: a simulation based study](http://dx.doi.org/10.12688/wellcomeopenres.14265.1)  [version 1; referees: awaiting peer review], *Wellcome Open Research*, **3**:33.
+<span data-badge-popover="bottom" data-badge-type="2" data-doi="10.12688/wellcomeopenres.14265.1" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/WOR2018.pdf" target="_blank">  [pdf]</a>
+
 **Kendall, M.**, Ayabina, D., Xu, Y., Stimson, J. and Colijn, C. (2018) [Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees](http://dx.doi.org/10.1214/17-STS637), *Statistical Science*, 33(1):70-85
 <span data-badge-popover="bottom" data-badge-type="2" data-arxiv-id='1609.09051' data-hide-no-mentions="true" class="altmetric-embed"></span>
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1214/17-STS637" data-hide-no-mentions="true" class="altmetric-embed"></span>
