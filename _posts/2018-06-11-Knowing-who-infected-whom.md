@@ -1,6 +1,6 @@
 ---		
  layout: article
- title: Knowing who infected whom
+ title: Who infected whom?
  categories: blog
  excerpt: A way to compare and summarise differing accounts of "who infected whom", aka transmission trees.
  image:
