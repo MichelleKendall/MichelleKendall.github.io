@@ -33,7 +33,7 @@ I will typically refer to the infected individuals as "people" for simplicity, b
 ### ... but difficult
 
 Figuring out who infected whom is rarely a simple task.
-We can use _genetic_ data (DNA / RNA / protein sequences etc.) and _epidemiological_ data (times / locations / patient ages etc.).
+We can use _genetic_ data (DNA / RNA / protein sequences etc.) and _epidemiological_ data (times / locations / ages etc.).
 Even when there is lots of information it can be hard to infer the true history of the epidemic.
 Complicating factors include:
 * the shear number of possible combinations
@@ -49,7 +49,7 @@ When there are lots of trees and/or the trees are large, it becomes very difficu
 
 ### Our contribution: _a way to compare transmission trees_
 
-In an <a href="https://michellekendall.github.io//blog/metrics/" target="_blank"> previous blog post</a> I explained how metrics can be used to compare complicated sets of objects.
+In a <a href="https://michellekendall.github.io//blog/metrics/" target="_blank"> previous blog post</a> I explained how metrics can be used to compare complicated sets of objects.
 We developed a metric-based method to compare transmission trees.
 The full details can be found here:
 
@@ -63,7 +63,7 @@ It allows us to quickly and easily compare different transmission trees, enablin
 * check whether Bayesian inference methods have converged (have stopped coming up with any new suggestions) or whether they are still discovering new possibilities for the transmission tree.
 
 A brief overview of the maths: the method works by uniquely characterising each tree by a vector, then finding the Euclidean distance between each pair of vectors.
-The tree vector's length is "the number of sampled patients choose 2", and for each pair of patients the vector's entry is the depth of the most recent common infector of those two patients.
+The tree vector's length is "the number of sampled cases choose 2", and for each pair of cases the vector's entry is the depth of the most recent common infector of those two cases.
 This captures features of historical transmission, particularly the source case, and information about the "shape" of the tree, which relates to R0.
 Outliers and clustering can be deduced from the pairwise distance matrix itself.
 In addition, <a href="https://en.wikipedia.org/wiki/Multidimensional_scaling" target="_blank"> multidimensional scaling</a> can be used to visualise the space of trees, as in the example below.
