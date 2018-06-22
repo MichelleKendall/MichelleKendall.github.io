@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<img src="/images/google-scholar-citations-chart.png" class="image-right" alt="">
-
 #### Phylogenetics
 
 Lees, J. A., **Kendall, M.**, Parkhill, J., Colijn, C., Bentley, S. D. and Harris, S. R. (2018)
