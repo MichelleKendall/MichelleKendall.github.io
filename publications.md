@@ -8,7 +8,7 @@ permalink: /publications/
 
 Lees, J. A., **Kendall, M.**, Parkhill, J., Colijn, C., Bentley, S. D. and Harris, S. R. (2018)
 <a href="https://wellcomeopenresearch.org/articles/3-33/v2" target="_blank">  Evaluation of phylogenetic reconstruction methods using bacterial whole genomes: a simulation based study</a>
-[version 2; referees: 2 approved, 1 approved with reservations], *Wellcome Open Research*, **3**:33.
+[version 2; referees: 3 approved], *Wellcome Open Research*, **3**:33.
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.12688/wellcomeopenres.14265.1" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/WOR2018.pdf" target="_blank">  [pdf]</a>
 
