@@ -7,7 +7,7 @@ image:
 ---
 
 I am a senior researcher in statistical genetics and pathogen dynamics at the <a href="https://www.bdi.ox.ac.uk/" target="_blank">Oxford Big Data Institute</a> in the <a href="https://www.bdi.ox.ac.uk/Team/christophe-fraser/" target="_blank">Fraser</a> group.
-I work on the <a href="https://017.medsci.ox.ac.uk/" target="_blank">BEEHIVE project</a> which is a cross-European study of HIV genomics and virulence.
+I work on the <a href="https://cordis.europa.eu/project/rcn/185401/reporting/en" target="_blank">BEEHIVE project</a> which is a cross-European study of HIV genomics and virulence.
 I am particularly interested in developing tree-based methods for answering statistical questions about HIV genotypic variation within and between patients.
 
 Previously I was a postdoc in the <a href="http://www.imperial.ac.uk/biomathematics-group" target="_blank">biomathematics group</a> at <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>.
