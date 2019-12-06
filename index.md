@@ -12,7 +12,7 @@ I am particularly interested in developing tree-based methods for answering stat
 
 Previously I was a postdoc in the <a href="http://www.imperial.ac.uk/biomathematics-group" target="_blank">biomathematics group</a> at <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>.
 I used mathematical ideas from combinatorics, topology and statistics to explore the complicated world of evolutionary trees.
-<a href="https://www.sfu.ca/math/department/faculty/colijn--caroline.html" target="_blank">Caroline Colijn</a> and I developed a method for comparing phylogenetic trees to reveal distinct evolutionary patterns present in data, which is available in the R package <a href="https://cran.rstudio.com/web/packages/treespace/index.html" target="_blank">*treespace*</a>.
+<a href="https://www.sfu.ca/math/department/faculty/colijn--caroline.html" target="_blank">Caroline Colijn</a> and I developed a method for comparing phylogenetic trees to reveal distinct evolutionary patterns present in data, which is available in the R package <a href="https://thibautjombart.github.io/treespace/" target="_blank">*treespace*</a>.
 
 On this site you can find more information about my publications and software.
 There is also a blog where I attempt to provide easy-to-read descriptions of my research.
