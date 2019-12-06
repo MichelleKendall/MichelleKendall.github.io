@@ -73,5 +73,5 @@ In addition, it can also be seen that the metric clearly separates trees by thei
 
 <img src="/images/MDS_construction.png"  alt="">
 
-The method is available in our R package <a href="https://michellekendall.github.io//software/treespace/" target="_blank"> *treespace*</a>.
+The method is available in our R package <a href="https://thibautjombart.github.io/treespace/" target="_blank"> *treespace*</a>.
 If you would like to use it then <a href="https://cran.r-project.org/web/packages/treespace/vignettes/TransmissionTreesVignette.html" target="_blank"> this vignette</a> is a good place to start.
