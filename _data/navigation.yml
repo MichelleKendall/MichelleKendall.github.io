@@ -1,5 +1,5 @@
 - name: Home
-  link: /index/
+  link: /index
 - name: Blog
   link: /blog/
 - name: Publications
