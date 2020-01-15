@@ -2,27 +2,21 @@
 layout: default
 ---
 
-<div id="main" role="main">			
-	<div class="wrap">
-		{% if page.image.feature %}
-		<div class="page-feature">
-			<div class="page-image">
-				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}">
-				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
-			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
-		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-			{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
+<section class="hero" style="background-image: url(https://source.unsplash.com/MqJX_8EaStM/2000x1322)">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1>The latest news</h1>
+			<p class="subtext">Hear the latest progress on Frisco and tips on making life long friends.</p>
 		</div>
-		<div class="archive-wrap">
-			<div class="page-content">
-				{{ content }}
-			</div><!-- /.page-content -->
-		</div class="archive-wrap"><!-- /.archive-wrap -->
-	</div><!-- /.wrap -->
-</div><!-- /#main -->
+	</div>
+</section>
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<link rel="stylesheet" href="/css/academicons.min.css"/>
+<section>
+	<div class="text-container">
+		<p class="change-category">You're currently looking at advice categorised under <strong>{{ page.title }}</strong>. <a href="{{ site.baseurl }}/blog/">View all posts</a> instead.</p>
+
+		<ul class="blog-posts">
+			{% include list-posts.html posts=page.posts %}
+		</ul>
+	</div>
+</section>

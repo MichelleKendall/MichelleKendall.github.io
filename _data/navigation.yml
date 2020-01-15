@@ -1,16 +1,10 @@
-# Site navigation links
-
-- title: Publications
-  url: /publications/
-  excerpt: "Links to my publications"
-  image: publications_thumbnail.png
-
-- title: Software
-  url: /software/
-  excerpt: "Overviews of my R packages"
-  image: software_thumbnail.jpg
-  
-- title: Blog
-  url: /blog
-  excerpt: "Assorted ideas and explanations of my research"
-  image: knitted_tree.jpg
+- name: Home
+  link: /index/
+- name: Blog
+  link: /blog/
+- name: Publications
+  link: /publications/
+- name: Software
+  link: /software/
+- name: Links
+  link: /links/

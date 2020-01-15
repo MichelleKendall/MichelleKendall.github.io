@@ -1,10 +1,14 @@
 ---
-layout: archive
 title: Publications
-permalink: /publications/
+description:
+image: knitted_tree.jpg
+bottom_image: knitted_tree_banner.jpg
+layout: post
 ---
 
-#### Phylogenetics
+Here is a list of my publications, each with a link to the full text pdf wherever permissible according to copyright rules.
+
+## Phylogenetics
 
 Lees, J. A., **Kendall, M.**, Parkhill, J., Colijn, C., Bentley, S. D. and Harris, S. R. (2018)
 <a href="https://wellcomeopenresearch.org/articles/3-33/v2" target="_blank">  Evaluation of phylogenetic reconstruction methods using bacterial whole genomes: a simulation based study</a>
@@ -48,7 +52,7 @@ Ratmann, O. et al (2017)
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw124" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/MBE2016.pdf" target="_blank">  [pdf]</a>
 
-#### Key predistribution
+## Key predistribution
 
 **Kendall, M.** and Martin, K. M. (2016)
 <a href="http://link.springer.com/article/10.1007/s10623-015-0124-0" target="_blank"> Graph-theoretic design and analysis of key predistribution schemes</a>, *Designs, Codes and Cryptography*, 81(1): 11-34

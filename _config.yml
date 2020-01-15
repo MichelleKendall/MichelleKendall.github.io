@@ -1,65 +1,122 @@
-# Site wide configuration
+# ----
+# Site
 
-title: "Michelle Kendall"
-description: "Michelle's online home for all things biomaths"
-logo: blog_thumbnail.png # 120x120 px default image used for Twitter summary card
-teaser: knitted_tree.jpg # 400x250 px default teaser image used in image archive grid
-locale: en
-url: https://michellekendall.github.io/
-feed:
-  path: atom.xml
+title: Michelle Kendall
+url: "https://michellekendall.github.io/"
+baseurl:
+google_analytics_key:
+google_maps_javascript_api_key:
+disqus_shortname:
 
-# Jekyll configuration
-
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: rouge
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
-
-# Site owner
-owner:
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /images/knitted_tree.jpg
+description: Professional website for Michelle Kendall
+author:
   name: Michelle Kendall
-  email: michelle.louise.kendall@gmail.com
+  email:
   twitter: mishkendall
-  google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: my_face_thumbnail.jpg # image for author byline
-  disqus-shortname:
+social:
+  name: Michelle Kendall
+  links:
+    - https://github.com/MichelleKendall
 
+# -----
+# Build
 
-include:
-  - .htaccess
-  - ["_pages"]
+timezone: GMT
+
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
+
 exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
   - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+collections:
+  staff_members:
+    _hide_content: true
+    _icon: account_circle
+
+paginate: 10
+paginate_path: "/blog/:num/"
+
+jekyll-archives:
+  enabled: ['categories']
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "staff_members"
+    values:
+      _options:
+        image_path:
+          width: 440
+          height: 440
+          uploads_dir: "/images/staff_members"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        image:
+          width: 2000
+          height: 1322
+          resize_style: cover
+          uploads_dir: "/images/post_uploads"
+        content:
+          width: 1500
+          height: 2000
+          uploads_dir: "/images/post_uploads"
+  -
+    scope:
+      path: "contact-success.html"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      image:
+        width: 2000
+        height: 1322
+        resize_style: cover
+      bottom_image:
+        width: 2000
+        height: 1322
+        resize_style: cover
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - Email
+  - RSS
+  - GitHub
+
+_comments:
+  description: Michelle Kendall
+  blurb: Researcher in statistical genetics and phylogenetics

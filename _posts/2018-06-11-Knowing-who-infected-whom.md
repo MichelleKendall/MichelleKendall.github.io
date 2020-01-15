@@ -1,15 +1,21 @@
----		
- layout: article
- title: Who infected whom?
- categories: blog
- excerpt: A way to compare and summarise differing accounts of "who infected whom", aka transmission trees.
- image:
-  teaser: transmission_teaser.jpg
----		
+---
+title: Who infected whom?
+date: 2018-06-11
+description: A way to compare and summarise differing accounts of "who infected whom", aka transmission trees.
+categories:
+  - metrics
+  - phylogenetics
+  - infectious disease transmission
+  - epidemiology
+image: knitted_tree.jpg
+author_staff_member: michelle
+---
+
+When studying an outbreak of an infectious disease, researchers often want to know _who infected whom_.
 
 <img src="/images/transmission_problem_overview.png" alt="">
 
-When studying an outbreak of an infectious disease, researchers often want to know _who infected whom_.
+
 It is common to represent this in a diagram called a _transmission tree_, such as the one below.
 
 <img src="/images/who_infected_whom_detail.png" class="image-center" alt="">
@@ -21,7 +27,7 @@ These are not people who we sampled but they are assumed to exist because timing
 
 ### ... is important
 
-Usually we want to know "who infected whom" with the aim of answering general questions about the disease dynamics rather than pointing blame at specific individuals! For example, we might want to know:
+Usually we want to know "who infected whom" with the aim of answering general questions about the disease dynamics rather than pointing blame at specific individuals!<sup>1</sup> For example, we might want to know:
 * the number of people that each infectious person typically infects
 * information about demography: whether the disease is being spread by a particular subset of the population e.g. children
 * information about geography: whether people picked up their infection in a certain country, town or hospital, or were already infected when they arrived
@@ -75,3 +81,5 @@ In addition, it can also be seen that the metric clearly separates trees by thei
 
 The method is available in our R package <a href="https://thibautjombart.github.io/treespace/" target="_blank"> *treespace*</a>.
 If you would like to use it then <a href="https://cran.r-project.org/web/packages/treespace/vignettes/TransmissionTreesVignette.html" target="_blank"> this vignette</a> is a good place to start.
+
+<sup>1</sup>Added 15th January 2020: It is worth noting that as techniques improve, the potential increases for accurately identifying individual transmission cases, which raises important ethical questions about the potential harm which could be caused by such analyses - see <a href="https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciz1248/5699874" target="_blank"> this recent note</a> in *Clinical Infectious Diseases* about identifying transmission networks in HIV studies.

@@ -1,12 +1,13 @@
----		
- layout: article
- title: Tree comparisons
- categories: blog
- excerpt: Why do we need to be able to compare trees in biologically meaningful ways?
- image:
-  teaser: phylocladus_teaser.JPG
-  feature: jacaranda_banner.JPG
----		
+---
+title: Tree comparisons
+date: 2018-01-26
+description: Why do we need to be able to compare trees in biologically meaningful ways?
+categories:
+  - metrics
+  - phylogenetics
+image: jacaranda_banner.JPG
+author_staff_member: michelle
+---
 
 Much of my postdoctoral research in 2014-2018 was concerned with tree comparisons. Here's a brief overview of the problems which make tree comparison important, and what we've contributed to address the problems.
 

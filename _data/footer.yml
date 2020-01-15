@@ -1,13 +1,16 @@
-# Footer navigation links
-
-- title: Home
-  url: /
-
-- title: Publications
-  url: /publications/
-
-- title: Software
-  url: /software/
-  
-- title: Blog
-  url: /blog
+left_links:
+  - name: Home
+    link: /index/
+  - name: Blog
+    link: /blog/
+  - name: Publications
+    link: /publications/
+  - name: Software
+    link: /software/
+  - name: Links
+    link: /links/
+right_links:
+  - name:
+    link: https://twitter.com/mishkendall
+    social_icon: Twitter
+    new_window: true
