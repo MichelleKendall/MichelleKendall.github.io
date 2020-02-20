@@ -3,10 +3,6 @@ title: Who infected whom?
 date: 2018-06-11
 description: A way to compare and summarise differing accounts of "who infected whom", aka transmission trees.
 categories:
-  - metrics
-  - phylogenetics
-  - infectious disease transmission
-  - epidemiology
 image: knitted_tree.jpg
 author_staff_member: michelle
 ---

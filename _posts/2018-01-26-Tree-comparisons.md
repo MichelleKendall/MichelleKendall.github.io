@@ -3,8 +3,6 @@ title: Tree comparisons
 date: 2018-01-26
 description: Why do we need to be able to compare trees in biologically meaningful ways?
 categories:
-  - metrics
-  - phylogenetics
 image: jacaranda_banner.JPG
 author_staff_member: michelle
 ---
