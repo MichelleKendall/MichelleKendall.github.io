@@ -8,6 +8,14 @@ layout: post
 
 Here is a list of my publications, each with a link to the full text pdf wherever permissible according to copyright rules.
 
+## covid-19
+
+Ferretti, L., Wymant, C., **Kendall, M.**, Zhao, L., Nurtay, A., Bonsall, David G., Fraser, C. (2020)
+<a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Manuscript%20-%20Modelling%20instantaneous%20digital%20contact%20tracing.pdf" target="_blank">  Quantifying dynamics of SARS-CoV-2 transmission suggests that epidemic control and avoidance is feasible through instantaneous digital contact tracing</a>
+*medRxiv* preprint 2020.03.08.20032946, *under review*.
+<br />
+<h4> Please note that medRxiv is slow to update at this time; the link above gives the most recent version of the manuscript. </h4>
+
 ## Phylogenetics
 
 Lees, J. A., **Kendall, M.**, Parkhill, J., Colijn, C., Bentley, S. D. and Harris, S. R. (2018)
