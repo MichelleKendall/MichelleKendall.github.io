@@ -11,7 +11,7 @@ Here is a list of my publications, each with a link to the full text pdf whereve
 ## covid-19
 
 Ferretti, L., Wymant, C., **Kendall, M.**, Zhao, L., Nurtay, A., Abeler-Dörner, L., Parker, M., Bonsall, David G., Fraser, C. (2020)
-<a href="https://science.sciencemag.org/content/early/2020/03/30/science.abb6936/tab-article-info" target="_blank">  Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing</a>
+<a href="https://science.sciencemag.org/content/early/2020/03/30/science.abb6936" target="_blank">  Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing</a>
 *Science* 2020.
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1126/science.abb6936" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/science2020.pdf" target="_blank">  [pdf]</a>
