@@ -8,6 +8,8 @@ layout: post
 
 Here is a list of my publications, each with a link to the full text pdf wherever permissible according to copyright rules.
 
+<br />
+
 ## covid-19
 
 Ferretti, L., Wymant, C., **Kendall, M.**, Zhao, L., Nurtay, A., Abeler-Dörner, L., Parker, M., Bonsall, David G., Fraser, C. (2020)
@@ -61,6 +63,8 @@ Ratmann, O. et al (2017)
 <a href="https://doi.org/10.1093/molbev/msw124" target="_blank"> Mapping phylogenetic trees to reveal distinct patterns of evolution</a>, *Molecular Biology and Evolution*, 33(10):2735-2743
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1093/molbev/msw124" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/MBE2016.pdf" target="_blank">  [pdf]</a>
+
+<br />
 
 ## Key predistribution
 
