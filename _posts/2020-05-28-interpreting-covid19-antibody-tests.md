@@ -8,7 +8,7 @@ author_staff_member: michelle
 ---
 
 COVID-19 antibody tests are rapidly becoming widely available.
-Suitable for use around a fortnight after an infection, these are the tests which tell you whether or not you have been infected by the COVID-19 virus SARS-COV-2.
+Suitable for use a fortnight or more after the possible date of infection, these are the tests which tell you whether or not you have been infected by the COVID-19 virus SARS-COV-2.
 Today in the UK many suppliers have sold out - people are understandably keen to know whether or not they have had the virus.
 However, there have been confusing reports in the media about how we can interpret these tests and some have been temporarily withdrawn from sale over questions about their accuracy.
 To what extent are these tests useful, and how can we interpret them?
@@ -42,7 +42,7 @@ Again, I could send it out to everyone in the country, and everyone who hasn't h
 An <b>accurate</b> test has to perform well in both directions; it has to be right most of the time.
 But this silly example leads us to an important observation.
 In the early stages of an epidemic, and in some countries in the world today, there have been very few cases, and my "you have not had COVID-19" envelope would in fact be right most of the time.
-The <b>prevalence</b> of the disease - the number of people who have had it - will affect how often a test gives the right result.
+The <b>prevalence</b> of the disease - the proportion of the population who have had it - will affect how often a test gives the right result.
 The really counter-intuitive thing is that when prevalence is low, it's extra important that the test has high <b>specificity</b>.
 Here's an example to show what I mean.
 
@@ -58,12 +58,16 @@ Altogether, 117 (= 99 + 18) people get positive results, of whom only 99 have re
 Therefore, if you are one of those 117 people who get a positive result, there is a <b>84.6%</b> chance you have had it (= 99 / 117 x 100).
 That is probably substantially lower "accuracy" than we expected when we first heard that the test was 99% sensitive and 98% specific.
 
-## Conclusion
+## What can antibody tests tell us?
 
 The interaction of prevalence, sensitivity and specificity is often counter-intuitive and can lead to confusion and sometimes <a href="https://doi.org/10.1080/09540120701867206" target="_blank"> devastating consequences</a>.
 The little app below enables you to run the calculation I outlined above for different combinations of values for prevalence, sensitivity and specificity.
 Notice how at 1% prevalence (appropriate for many places in the world) a positive result on a 99% sensitive and 99% specific test really only gives you a 50-50 chance of having had COVID-19.
-You can check how tests available in your area might perform in the context of the local prevalence.
+You can check how the <a href="https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance" target="_blank"> sensitivity and specificity of particular tests</a> available in your area might perform in the context of the local prevalence.
+
+One way to have greater confidence in a test result is to repeat the test.
+Testing yourself once a fortnight could help to build a fairly accurate picture of whether or not you have become infected at any point, and may even help to spot waning immunity if and when this happens.
+However, with tests currently in short supply and typically costing £60-£150, this is not a practical option for most people.
 
 At a regional or national level, antibody tests can be useful for public health bodies and researchers to build up a picture of how many people have had the virus.
 However, the lack of certainty about immunity, together with the lack of clarity about the accuracy of many publicly available tests, make me extremely wary about individuals using them for anything other than casual interest at the moment.
