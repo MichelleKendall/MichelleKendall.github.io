@@ -15,19 +15,19 @@ To what extent are these tests useful, and how can we interpret them?
 
 There are two key factors to consider when interpreting an antibody test: what "having antibodies" means for an individual, and how accurate the test is.
 
-<b> What does "having antibodies" mean?</b>
+## What does "having antibodies" mean?
 
-To the best of my knowledge, there are as yet no clear answers to the questions
+To the best of my knowledge, there are no clear answers at the time of writing (28th May 2020) to the questions:
 1. Does having antibodies mean you are immune?
 2. How long does immunity last?
 3. If you have antibodies, can you still be a carrier of the disease?
 
 Until we are sure that having antibodies makes you immune and unable to pass on the disease, and until we know how long that protective effect lasts, I would caution against anyone acting any differently on the basis of a positive antibody test.
 
-<b> What does "accurate" mean?</b>
+## What does "accurate" mean?
 
 When I see a test being marketed as "99% accurate" it immediately makes me suspicious.
-For tests such as these, accuracy ought to be broken down into two figures: the <b>sensitivity</b> and <b>specificity</b>.
+For tests such as these, accuracy ought to be broken down into two figures: the <a href="https://en.wikipedia.org/wiki/Sensitivity_and_specificity" target="_blank" > <b>sensitivity</b> and <b>specificity</b></a>.
 Let me explain.
 
 For a test to be accurate, it needs to correctly tell people who have had it that they have had it (be "sensitive"), and correctly tell people who haven't had it that they haven't had it (be "specific").
@@ -44,23 +44,28 @@ But this silly example leads us to an important observation.
 In the early stages of an epidemic, and in some countries in the world today, there have been very few cases, and my "you have not had COVID-19" envelope would in fact be right most of the time.
 The <b>prevalence</b> of the disease - the number of people who have had it - will affect how often a test gives the right result.
 The really counter-intuitive thing is that when prevalence is low, it's extra important that the test has high <b>specificity</b>.
-
 Here's an example to show what I mean.
+
+## An example
+
 To keep the numbers nice, let's consider a place where prevalence is about 10%. (In the UK at the end of May 2020 it is probably a bit lower in most areas and a bit higher in some - see <a href="https://www.gov.uk/government/publications/national-covid-19-surveillance-reports/sero-surveillance-of-covid-19" target="_blank"> here</a> for a current report.)
 If you test 1000 people (and they are a nice representative sample, etc.) there should be 100 people who have had COVID-19.
-If your test is 99% sensitive then 99 of them will get the appropriate positive result; one will not (a "false negative").
+If your test is 99% sensitive then 99 of them will get the appropriate positive result; one will not (a "<a href="https://en.wikipedia.org/wiki/False_positives_and_false_negatives" target="_blank" > false negative</a>").
 If your test is 98% specific then 882 (= 0.98 x 900) people will get the appropriate negative result.
 That leaves 18 (= 900 - 882) incorrectly getting positive results.
 
 Altogether, 117 (= 99 + 18) people get positive results, of whom only 99 have really had it ("true positives").
 Therefore, if you are one of those 117 people who get a positive result, there is a <b>84.6%</b> chance you have had it (= 99 / 117 x 100).
-That is probably substantially lower "accuracy" than you expected when you first heard that the test was 99% sensitive and 98% specific.
+That is probably substantially lower "accuracy" than we expected when we first heard that the test was 99% sensitive and 98% specific.
+
+## Conclusion
 
 The interaction of prevalence, sensitivity and specificity is often counter-intuitive and can lead to confusion and sometimes <a href="https://doi.org/10.1080/09540120701867206" target="_blank"> devastating consequences</a>.
 The little app below enables you to run the calculation I outlined above for different combinations of values for prevalence, sensitivity and specificity.
 Notice how at 1% prevalence (appropriate for many places in the world) a positive result on a 99% sensitive and 99% specific test really only gives you a 50-50 chance of having had COVID-19.
+You can check how tests available in your area might perform in the context of the local prevalence.
 
-At a regional or national level, antibody tests can be useful to build up a picture of how many people have had the virus.
+At a regional or national level, antibody tests can be useful for public health bodies and researchers to build up a picture of how many people have had the virus.
 However, the lack of certainty about immunity, together with the lack of clarity about the accuracy of many publicly available tests, make me extremely wary about individuals using them for anything other than casual interest at the moment.
 
 
