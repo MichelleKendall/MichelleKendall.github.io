@@ -1,14 +1,15 @@
 ---
 title: Interpreting COVID-19 antibody test results
-date: 2020-05-28
+date: 2020-05-29
 description: What does it mean when a test claims to be "accurate"?
 categories:
 image: covid_antibody_test.jpg
 author_staff_member: michelle
 ---
 
-COVID-19 antibody tests are rapidly becoming widely available.
-Suitable for use a fortnight or more after the possible date of infection, these are the tests which tell you whether or not you have been infected by the COVID-19 virus SARS-COV-2.
+COVID-19 <a href="https://en.wikipedia.org/wiki/Serology#Serological_tests" target="_blank" > antibody tests</a> are rapidly becoming widely available.
+These are the tests which can tell you whether or not you have previously been infected by the COVID-19 virus SARS-COV-2.
+The tests look for <a href="https://en.wikipedia.org/wiki/Antibody" target="_blank"> <b>antibodies</b></a> in the blood which are made by the body in response to infection, and which reach high enough levels to be detectable from about 3 weeks after infection (or 2 weeks after symptoms began, if you had them).
 Today in the UK many suppliers have sold out - people are understandably keen to know whether or not they have had the virus.
 However, there have been confusing reports in the media about how we can interpret these tests and some have been temporarily withdrawn from sale over questions about their accuracy.
 To what extent are these tests useful, and how can we interpret them?
@@ -17,7 +18,7 @@ There are two key factors to consider when interpreting an antibody test: what "
 
 ## What does "having antibodies" mean?
 
-To the best of my knowledge, there are no clear answers at the time of writing (28th May 2020) to the questions:
+At the time of writing (29th May 2020) and to the best of my knowledge, there are no clear answers to the questions:
 1. Does having antibodies mean you are immune?
 2. How long does immunity last?
 3. If you have antibodies, can you still be a carrier of the disease?
@@ -48,7 +49,7 @@ Here's an example to show what I mean.
 
 ## An example
 
-To keep the numbers nice, let's consider a place where prevalence is about 10%. (In the UK at the end of May 2020 it is probably a bit lower in most areas and a bit higher in some - see <a href="https://www.gov.uk/government/publications/national-covid-19-surveillance-reports/sero-surveillance-of-covid-19" target="_blank"> here</a> for a current report.)
+To keep the numbers nice, let's consider a place where prevalence is about 10%, so 1 in 10 people have been infected. (In the UK at the end of May 2020 it is probably a bit lower in most areas and a bit higher in some - see <a href="https://www.gov.uk/government/publications/national-covid-19-surveillance-reports/sero-surveillance-of-covid-19" target="_blank"> here</a> for a current report.)
 If you test 1000 people (and they are a nice representative sample, etc.) there should be 100 people who have had COVID-19.
 If your test is 99% sensitive then 99 of them will get the appropriate positive result; one will not (a "<a href="https://en.wikipedia.org/wiki/False_positives_and_false_negatives" target="_blank" > false negative</a>").
 If your test is 98% specific then 882 (= 0.98 x 900) people will get the appropriate negative result.
