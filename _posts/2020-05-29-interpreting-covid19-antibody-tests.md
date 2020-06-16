@@ -23,7 +23,9 @@ At the time of writing (29th May 2020) and to the best of my knowledge, there ar
 2. How long does immunity last?
 3. If you have antibodies, can you still be a carrier of the disease?
 
-Until we are sure that having antibodies makes you immune and unable to pass on the disease, and until we know how long that protective effect lasts, I would caution against anyone acting any differently on the basis of a positive antibody test.
+Until we are sure that having antibodies makes you immune and unable to pass on the disease, and until we know how long that protective effect lasts, it is important that we follow the <a href="https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html" target="_blank"> <b>offical CDC advice</b></a> which currently cautions against anyone acting any differently on the basis of a positive antibody test.
+
+
 
 ## What does "accurate" mean?
 
