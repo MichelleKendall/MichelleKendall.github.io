@@ -12,9 +12,9 @@ Here is a list of my publications, each with a link to the full text pdf whereve
 
 ## COVID-19
 
-Ferretti, L., Wymant, C., **Kendall, M.**, Zhao, L., Nurtay, A., Abeler-Dörner, L., Parker, M., Bonsall, David G., Fraser, C. (2020)
+Ferretti, L., Wymant, C., **Kendall, M.**, Zhao, L., Nurtay, A., Abeler-Dörner, L., Parker, M., Bonsall, D., Fraser, C. (2020)
 <a href="https://science.sciencemag.org/content/early/2020/03/30/science.abb6936" target="_blank">  Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing</a>
-*Science* 2020.
+*Science* 368(6491).
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.1126/science.abb6936" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/science2020.pdf" target="_blank">  [pdf]</a>
 
@@ -24,7 +24,7 @@ Ferretti, L., Wymant, C., **Kendall, M.**, Zhao, L., Nurtay, A., Abeler-Dörner,
 
 Lees, J. A., **Kendall, M.**, Parkhill, J., Colijn, C., Bentley, S. D. and Harris, S. R. (2018)
 <a href="https://wellcomeopenresearch.org/articles/3-33/v2" target="_blank">  Evaluation of phylogenetic reconstruction methods using bacterial whole genomes: a simulation based study</a>
-[version 2; referees: 3 approved], *Wellcome Open Research*, **3**:33.
+[version 2; referees: 3 approved], *Wellcome Open Research*, 3(33).
 <span data-badge-popover="bottom" data-badge-type="2" data-doi="10.12688/wellcomeopenres.14265.1" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <i class="fa fa-file-pdf"></i> <a href="https://michellekendall.github.io/papers/WOR2018.pdf" target="_blank">  [pdf]</a>
 
