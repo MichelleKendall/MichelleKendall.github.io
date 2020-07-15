@@ -12,6 +12,9 @@ Here is a list of my publications, each with a link to the full text pdf whereve
 
 ## COVID-19
 
+**Kendall, M.**, Milsom, L., Abeler-Dörner, L., Wymant, C., Ferretti, L., Briers, M., Holmes, C., Bonsall, D., Abeler, J., Fraser, C. (2020)
+<a href="https://medrxiv.org/cgi/content/short/2020.07.12.20151753v1" target="_blank">  COVID-19 incidence and R decreased on the Isle of Wight after the launch of the Test, Trace, Isolate programme</a> *medRxiv preprint*.
+
 Ferretti, L., Wymant, C., **Kendall, M.**, Zhao, L., Nurtay, A., Abeler-Dörner, L., Parker, M., Bonsall, D., Fraser, C. (2020)
 <a href="https://science.sciencemag.org/content/early/2020/03/30/science.abb6936" target="_blank">  Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing</a>
 *Science* 368(6491).
