@@ -1,6 +1,6 @@
 ---
 title: Interpreting R as case numbers get smaller
-date: 2021-02-23
+date: 2021-03-18
 description: A "national reproduction number" R becomes trickier to estimate and to interpret as case numbers decrease.
 categories:
 image: knitted_tree.jpg
@@ -57,6 +57,6 @@ There is also more variation by age now, so that "R for England" might be more u
 
 <img src="/images/interpreting_R_cases_by_age.png"  alt="Cases by age" width="100%">
 
-The lower the overall national case numbers, the more any surges will show up in the national estimate. Which is fine, but I think it makes it increasingly difficult to interpret a "national R number" and increasingly helpful to break it down by geographies and ages. 
+The lower the overall national case numbers, the more any surges will show up in the national estimate. Which is fine, but I think it makes it increasingly difficult to interpret a "national R number" and increasingly helpful to break it down by geographies and ages.
 
 To explore any of these trends in more detail, and to find references and open-source code, see our shiny app <a href="https://bdi-pathogens.shinyapps.io/LocalCovidTracker/" target="_blank">LocalCovidTracker</a> (which works better on desktops than mobiles).
