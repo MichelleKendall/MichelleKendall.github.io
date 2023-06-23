@@ -30,4 +30,4 @@ We have made our analyses available in <a href="https://bdi-pathogens.shinyapps.
 <img src="/images/Screenshot_LocalCovidTracker_blog.png" alt="LocalCovidTracker">
 </a>
 
-<i>This blog post also appears on the <a href="https://www.coronavirus-fraser-group.org/blog" target="_blank" > Fraser group website</a>.
+<i>This blog post also appears on the <a href="https://045.medsci.ox.ac.uk/blog" target="_blank" > Fraser group website</a>.
