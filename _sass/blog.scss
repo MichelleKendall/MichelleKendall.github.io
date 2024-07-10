@@ -1,12 +1,9 @@
 .blog-posts {
+
 	list-style: none;
 	padding: 0;
 	margin: 0;
 	font-size: 1em;
-
-	li {
-		padding: 50px 0;
-	}
 
 	.blog-post {
 		padding: 18px 0;
@@ -53,6 +50,17 @@
 		font-size: 2.6em;
 		margin: 0;
 	}
+
+	li {
+		padding: 10px 0;
+		font-size: 1.2em;
+	}
+
+	.my-emphasis {
+   		color: #A87CBF;
+   		font-weight: heavy;
+	}
+
 
 	.post-details {
 		border-bottom: 1px solid #eee;
