@@ -51,7 +51,7 @@ When there are lots of trees and/or the trees are large, it becomes very difficu
 
 ### Our contribution: _a way to compare transmission trees_
 
-In a <a href="https://michellekendall.github.io//blog/metrics/" target="_blank"> previous blog post</a> I explained how metrics can be used to compare complicated sets of objects.
+In a <a href="https://michellekendall.github.io/2018/03/04/metrics/" target="_blank"> previous blog post</a> I explained how metrics can be used to compare complicated sets of objects.
 We developed a metric-based method to compare transmission trees.
 The full details can be found here:
 
